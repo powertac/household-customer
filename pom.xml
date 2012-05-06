@@ -35,4 +35,5 @@
     <developerConnection>scm:git:git@github.com:powertac/household-customer.git</developerConnection>
     <url>https://github.com/powertac/household-customer</url>
   </scm>
+
 </project>
